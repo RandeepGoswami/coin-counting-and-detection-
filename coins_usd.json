@@ -1,0 +1,11 @@
+{
+  "_note": "US coins. diameter_mm is the real coin diameter, value is its worth.",
+  "currency": "USD",
+  "symbol": "$",
+  "coins": [
+    {"name": "dime",    "display": "Dime",    "diameter_mm": 17.91, "value": 0.10},
+    {"name": "penny",   "display": "Penny",   "diameter_mm": 19.05, "value": 0.01},
+    {"name": "nickel",  "display": "Nickel",  "diameter_mm": 21.21, "value": 0.05},
+    {"name": "quarter", "display": "Quarter", "diameter_mm": 24.26, "value": 0.25}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_note": "Indian coins in circulation (diameters are nominal - verify against the India Government Mint / RBI spec for the series you have, and edit if needed).",
+  "currency": "INR",
+  "symbol": "Rs",
+  "coins": [
+    {"name": "50p",  "display": "50 paise", "diameter_mm": 19.0, "value": 0.50},
+    {"name": "Rs1",  "display": "Rs 1",     "diameter_mm": 20.0, "value": 1.0},
+    {"name": "Rs5",  "display": "Rs 5",     "diameter_mm": 23.0, "value": 5.0},
+    {"name": "Rs2",  "display": "Rs 2",     "diameter_mm": 25.0, "value": 2.0},
+    {"name": "Rs10", "display": "Rs 10",    "diameter_mm": 27.0, "value": 10.0}
+  ]
+}
